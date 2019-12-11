@@ -1,2 +1,2 @@
 # rProject_template
-templeaete to organize future r projects
+template to organize future r projects
